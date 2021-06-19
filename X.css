@@ -1,0 +1,503 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	width: 1361px;
+	background-color: #2E8B57  ; 
+}
+
+.Playstation{
+	position: absolute;
+	left: 75%;
+	top: 70%;
+	font-size: 40px;
+	list-style: none;
+	text-decoration: blue;
+
+}
+
+.Playstation a:hover{
+color: blue;
+text-decoration: none;
+}
+
+.Playstation a:link{
+	text-decoration: none;
+}
+
+.header{
+	margin: 0px;
+	padding: 0px;
+}
+.XboxHeader{
+	margin: 0px;
+	padding: 0px;
+	width: 1361px; 
+	height: 379px;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.ONE{
+	position: absolute;
+	left: 35%;
+	bottom: 10%;
+	font-size: 50px;
+	font-family: Arial Narrow, sans-serif;
+	color:#D3D3D3	;
+}
+
+.acaoTXT{
+	position: absolute;
+	left: 42%;
+	top: 85%;
+	font-size: 30px;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+section{
+	display: inline-flex;
+}
+
+img{
+	display: inline-flex;
+	height: 200px;
+	display: block;
+	padding: 3%;
+}
+
+.MetalImg{
+	display: inline-flex;
+	position: absolute;
+	left: 70px;
+	top: 93%;
+}
+
+.MetalTxt{
+	position: absolute;
+	left: 12%;
+	top: 135%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.watchImg{
+	display: inline-flex;
+	position: absolute;
+	left: 20%;
+	top: 93%;
+}
+
+.WatchTxt{
+	position: absolute;
+    top: 135%;
+    left: 27%;
+    font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.cyberImg{
+	display: inline-flex;
+	position: absolute;
+	left: 35%;
+	top: 93%;
+}
+.cyberTxt{
+	position: absolute;
+    top: 135%;
+    left: 42%;
+    font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.BattlefleldImg{
+	display: inline-flex;
+	position: absolute;
+	left: 50%;
+	top: 93%;
+}
+
+.BattlefleldTxt{
+	position: absolute;
+    top: 135%;
+    left: 55%;
+    font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.ReddeadImg{
+	display: inline-flex;
+	position: absolute;
+	left: 66%;
+	top: 93%;
+}
+.ReddeadTxt{
+	position: absolute;
+    top: 135%;
+    left: 72%;
+    font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+
+.EsporteImg{
+    display: inline-flex;
+	position: absolute;
+	left: 82px;
+	top: 147%;
+}
+
+.ForzaImg{
+	display: inline-flex;
+	position: absolute;
+	left: 5%;
+	top: 150%;
+}
+
+.ForzaTxt{
+	position: absolute;
+	left: 12%;
+	top: 192%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.VelozesImg{
+	display: inline-flex;
+	position: absolute;
+	left: 20%;
+	top: 150%;
+}
+
+.VelozesTxt{
+	position: absolute;
+	left: 26%;
+	top: 192%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.F1Img{
+	display: inline-flex;
+	position: absolute;
+	left: 35%;
+	top: 150%;
+}
+
+.F1Txt{
+	position: absolute;
+	left: 43%;
+	top: 192%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.HadImg{
+	display: inline-flex;
+	position: absolute;
+	left: 50%;
+	top: 150%;
+
+}
+
+.HadTxt{
+	position: absolute;
+	left: 56%;
+	top: 192%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.PesImg{
+	display: inline-flex;
+	position: absolute;
+	left: 66%;
+	top: 150%;
+}
+
+.PesTxt{
+	position: absolute;
+	left: 73%;
+	top: 192%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+.EsporteTxt{
+	position: absolute;
+	left: 40%;
+	top: 145%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.AventuraImg{
+	display: inline-flex;
+	position: absolute;
+	left: 70px;
+	top: 199%;
+}
+
+.AventuraTxt{
+	position: absolute;
+	left: 40%;
+	top: 200%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+
+}
+
+.jumanjiImg{
+	display: inline-flex;
+	position: absolute;
+	left: 5%;
+	top:  208%;
+}
+
+.jumanjiTxt{
+	position: absolute;
+	left: 12%;
+	top: 250%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.huntingImg{
+	display: inline-flex;
+	position: absolute;
+	left: 35%;
+	top:  208%;
+}
+.huntingTxt{
+	position: absolute;
+	left: 42%;
+	top: 249%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC; 
+}
+
+
+.AssassinsImg{
+	display: inline-flex;
+	position: absolute;
+	left: 20%;
+	top:  208%;
+}
+
+.AssassinsTxt{
+    position: absolute;
+	left: 26%;
+	top: 249%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC; 
+}
+
+.PrinceImg{
+	display: inline-flex;
+	position: absolute;
+	left: 50%;
+	top:  208%;
+}
+
+.PrinceTxt{
+	position: absolute;
+	left: 57%;
+	top: 249%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.tombImg{
+	display: inline-flex;
+	position: absolute;
+	left: 66%;
+	top:  208%;
+}
+.tombTxt{
+	position: absolute;
+	left: 72%;
+	top: 249%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+    
+.incriveisImg{
+	display: inline-flex;
+	position: absolute;
+	left: 5%;
+	top:  270%;
+}
+.IncriveisTxt{
+	position: absolute;
+	left: 12%;
+	top: 310%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.ManiImg{
+	display: inline-flex;
+	position: absolute;
+	left: 20%;
+	top:  270%;
+}
+.maniTxt{
+	position: absolute;
+	left: 27%;
+	top: 310%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.SuperImg{
+	display: inline-flex;
+	position: absolute;
+	left: 35%;
+	top:  270%;
+}
+.SuperTxt{
+	display: inline-flex;
+	position: absolute;
+	left: 42%;
+	top:  310%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.thesimesImg{
+	display: inline-flex;
+	position: absolute;
+	left: 50%;
+	top:  270%;
+}
+
+.thesimesTxt{
+	display: inline-flex;
+	position: absolute;
+	left: 56%;
+	top:  310%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+.MegaImg{
+	display: inline-flex;
+	position: absolute;
+	left: 66%;
+	top:  270%;
+}
+.megaTxt{
+	display: inline-flex;
+	position: absolute;
+	left: 70%;
+	top:  310%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+.InfantisTxt{
+    position: absolute;
+	left: 40%;
+	top: 265%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}	
+
+
+
+
+.XboxLive{
+	position: absolute;
+	top: 350%;
+     left: 5%;
+     height: 10px;
+}
+
+hr{  
+	position: relative;
+	top: 690px;
+	color: #D3D3D3;
+}
+
+.GoldTxt{  
+	position: absolute;
+    top: 355%;
+    left: 16%;
+    font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+	font-size: 20px;
+}
+
+
+.TituloXbox{
+	position: absolute;
+    top: 330%;
+    font-size: 30px;
+    left: 5%;
+    font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+}
+
+
+.Xboxlive{
+	position: absolute;
+	width: 140px;
+	height: 140px;
+	left: 5%;
+	top: 15%;
+}
+
+
+.galeria{
+	left: 20%;
+	right: 20%;
+	top: 360%;
+	margin: 200px auto;
+	width: 600px;
+	height: 270px;
+	position: absolute;
+	overflow: hidden;
+}
+
+.evolucao{
+	position: absolute;
+	top: 375%;
+	font-family: Arial Narrow, sans-serif;
+	color: #DCDCDC;
+	left: 8%;
+	font-size: 35px;
+
+}
+.foto{
+	width: 600px;
+	position: absolute;
+	opacity: 0;
+	animation-name: animacao;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes animacao{
+	25%{
+		opacity: 1;
+		transform:scale(1.1,1.1); 
+	}
+	50%{
+		opacity: 0; 
+	}
+}
+
+
+.foto:nth-child(1){
+
+}
+.foto:nth-child(2){
+	animation-delay: 5s;
+}
+.foto:nth-child(3){
+	animation-delay: 10s;
+}
+.foto:nth-child(4){
+	animation-delay: 15s;
+}
+.foto:nth-child(5){
+	animation-delay: 20s;
+}

@@ -1,0 +1,57 @@
+body{
+	width: 1335px;
+	height: 500px;
+	background-color: #708090;
+}
+
+.psxbox{
+	margin: 0;
+	width: 1335px;
+	height: 500px;
+}
+
+.menu{
+	position: absolute;
+	top: 83%;
+	display: inline-flex;
+}
+
+li{
+	display: inline-flex;
+	padding-left: 200px;
+}
+
+.Playstation{
+	position: absolute;
+	left: 800px;
+	font-size: 40px;
+}
+
+.Xbox{
+	position: absolute;
+	font-size: 40px;
+	left: -10%;
+}
+
+ div {
+  position: absolute;
+  top: 600px;	
+  width: 98%;
+  height: 200px;
+  border-width: 2px;
+  border-color: white;
+  border-style: solid;
+  display: inline-block;        
+  border-radius: 20px;
+}
+
+.Bemvindos{
+	text-align: center;
+    font-size: 30px;
+}
+
+p{
+	font-size: 30px;
+}
+
+
